@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1588175385 source:e:\cpp_projects\shutdown timer\main.cpp
+	<iostream>
+	<windows.h>
+

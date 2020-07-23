@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589692731 source:e:\cpp_projects\mental math\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
+1589692731 source:d:\cpp_projects\mental math\main.cpp
+	<iostream>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
+1591175111 source:d:\cpp_projects\mental math\rs.rc
+

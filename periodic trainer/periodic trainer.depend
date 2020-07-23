@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1589872614 source:e:\cpp_projects\periodic trainer\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
+1591246224 source:d:\cpp_projects\periodic trainer\main.cpp
+	<iostream>
+	<string.h>
+	<time.h>
+	<conio.h>
+	<stdlib.h>
+
+1591111948 source:d:\cpp_projects\periodic trainer\resources.rc
+

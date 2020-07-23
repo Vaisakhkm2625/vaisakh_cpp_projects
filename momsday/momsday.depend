@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1589086061 source:e:\cpp_projects\momsday\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+

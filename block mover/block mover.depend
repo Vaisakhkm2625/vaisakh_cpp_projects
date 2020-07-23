@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588053844 source:e:\cpp_projects\block mover\main.cpp
+	<iostream>
+	<stdlib.h>
+
+1588055508 source:e:\cpp_projects\block mover\resources.rc
+
